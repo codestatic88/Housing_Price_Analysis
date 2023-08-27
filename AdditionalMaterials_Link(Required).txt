@@ -1,0 +1,10 @@
+# Additional Materials can be found at the following link:
+
+https://drive.google.com/drive/folders/1kGr9dsosyAQRXC_DIq-fe4c7Z7KAlJPT
+
+
+--------------------------------------------------------------------------------
+Note: 
+- Files are uploaded separately due to incomplete upload process as file size too large.
+- Only files that are missing are included in the shared drive.
+- Files are stored in the same directory structure as git folder.
