@@ -1,7 +1,7 @@
 PROJECT OVERVIEW
 =====================================================================================================================================
 1) BACKGROUND
- When Singapore first gained indepedence in 1965 housing was one of the challenges faced. The living conditions of Singaporeans where dominated by kampongs and haphazardly constructed squtter housings with deplorable living conditions. [1]. An example of the dangers of staying in Kampong houses can be exemplified by the Bukit Ho Swee Fire 
+When Singapore first gained indepedence in 1965 housing was one of the challenges faced. The living conditions of Singaporeans where dominated by kampongs and haphazardly constructed squtter housings with deplorable living conditions. [1]. An example of the dangers of staying in Kampong houses can be exemplified by the Bukit Ho Swee Fire 
 that broke out in 1961 which destroyed 16,000 homes and took 4 lives. [2]
 In 1960, Housing and Development Board (HDB) was established. [3]. Public housing in Singapore focuses on considerations of universal homeownership as an overarching principle.
 This is a shift from the public housing inheritied from the British Colonial administration which was oriented to having public housing at an affordable rent. In the late 
