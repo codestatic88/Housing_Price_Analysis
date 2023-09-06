@@ -1,16 +1,15 @@
 PROJECT OVERVIEW
 =====================================================================================================================================
 1) BACKGROUND
--  Singapore first gained indepedence in 1965 housing was one of the challenges faced. The living conditions of Singaporeans where dominated by kampongs and haphazardly
-- constructed squtter housings with deplorable living conditions. [1]. An example of the dangers of staying in Kampong houses can be exemplified by the Bukit Ho Swee Fire 
-- that broke out in 1961 which destroyed 16,000 homes and took 4 lives. [2]
-- In 1960, Housing and Development Board (HDB) was established. [3]. Public housing in Singapore focuses on considerations of universal homeownership as an overarching principle.
--  This is a shift from the public housing inheritied from the British Colonial administration which was oriented to having public housing at an affordable rent. In the late 
-- 1960s the HDB policy has shifted towards selling public housing and by 1980s, homeownership has grown [4]
-- In recent years 2022, Singapore homeownership was at 89.3 percent which has increased from the previous years. Home ownership continues to play a part in the life of 
- Singaporeans and property prices in Singapore has increased over the years.
+ When Singapore first gained indepedence in 1965 housing was one of the challenges faced. The living conditions of Singaporeans where dominated by kampongs and haphazardly constructed squtter housings with deplorable living conditions. [1]. An example of the dangers of staying in Kampong houses can be exemplified by the Bukit Ho Swee Fire 
+that broke out in 1961 which destroyed 16,000 homes and took 4 lives. [2]
+In 1960, Housing and Development Board (HDB) was established. [3]. Public housing in Singapore focuses on considerations of universal homeownership as an overarching principle.
+This is a shift from the public housing inheritied from the British Colonial administration which was oriented to having public housing at an affordable rent. In the late 
+1960s the HDB policy has shifted towards selling public housing and by 1980s, homeownership has grown [4]
+In recent years 2022, Singapore homeownership was at 89.3 percent which has increased from the previous years. Home ownership continues to play a part in the life of 
+Singaporeans and property prices in Singapore has increased over the years.
 
-- This project takes into account information one map and resale flat prices to better understand what are the features that are related to the modeling of housing price
+This project takes into account information one map and resale flat prices to better understand what are the features that are related to the modeling of housing price
 
 2) PROBLEM STATEMENT
 Modelling to understand how does the factors cause the HDB prices to fluctuate and recommendations for the purchase of HDB
